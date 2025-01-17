@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RenzWoo
-- 👀 I’m interested in... secret
+- 👀 I’m interested in you.
 - 🌱 I’m currently a 2nd year in Data Science
 - 😄 Pronouns: Try/me
 
