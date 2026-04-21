@@ -1,6 +1,6 @@
 - 👋 I’m @Renzz
 - 👀 Interested in things am good at...
-- 🌱 3rd year in DataScience...
+- 🌱 Build in private :3
 
 <!---
 RenzWoo/RenzWoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
