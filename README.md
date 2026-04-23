@@ -1,4 +1,4 @@
-- 👋 I’m @Renzz
+- 👋 @Renzz
 - 👀 Interested in things am good at...
 - 🌱 Builds in private :3
 
