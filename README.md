@@ -69,12 +69,12 @@
 
 ### ⚔️ DUNGEON RECORDS
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=7EC8E3&icon_color=1565C0&include_all_commits=true&bg_color=0A0E1A" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=7EC8E3&icon_color=1565C0&include_all_commits=true&count_private=true&bg_color=0A0E1A" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=transparent&hide_border=true&ring=1565C0&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=4a6fa5&dates=2a4a7a&currStreakNum=ffffff&sideNums=7EC8E3&background=0A0E1A" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=7EC8E3&langs_count=8&bg_color=0A0E1A"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzWoo&layout=compact&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=7EC8E3&langs_count=8&bg_color=0A0E1A&count_private=true"/>
 
 </div>
 
