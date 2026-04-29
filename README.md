@@ -51,9 +51,7 @@
 
 ![Python](https://img.shields.io/badge/Python-0A0E1A?style=for-the-badge&logo=python&logoColor=4FC3F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0E1A?style=for-the-badge&logo=javascript&logoColor=4FC3F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0E1A?style=for-the-badge&logo=typescript&logoColor=4FC3F7)
 ![Java](https://img.shields.io/badge/Java-0A0E1A?style=for-the-badge&logo=openjdk&logoColor=4FC3F7)
-![Kotlin](https://img.shields.io/badge/Kotlin-0A0E1A?style=for-the-badge&logo=kotlin&logoColor=4FC3F7)
 ![HTML5](https://img.shields.io/badge/HTML5-0A0E1A?style=for-the-badge&logo=html5&logoColor=4FC3F7)
 ![CSS3](https://img.shields.io/badge/CSS3-0A0E1A?style=for-the-badge&logo=css3&logoColor=4FC3F7)
 ![React](https://img.shields.io/badge/React-0A0E1A?style=for-the-badge&logo=react&logoColor=4FC3F7)
@@ -69,7 +67,6 @@
 
 ### ⚔️ DUNGEON RECORDS
 
-<img src="https://github-readme-stats.vercel.app/api?username=RenzWoo&show_icons=true&theme=transparent&hide_border=true&title_color=4FC3F7&text_color=7EC8E3&icon_color=1565C0&include_all_commits=true&count_private=true&bg_color=0A0E1A" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenzWoo&theme=transparent&hide_border=true&ring=1565C0&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=4a6fa5&dates=2a4a7a&currStreakNum=ffffff&sideNums=7EC8E3&background=0A0E1A" width="49%"/>
 
 <br/>
