@@ -10,17 +10,17 @@
 <br/><br/>
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                ▓
-▓            ! SYSTEM NOTIFICATION               ▓
-▓                                                ▓
-▓        You have encountered a developer.       ▓
-▓        Rank: ██████  [ REDACTED ]              ▓
-▓        Class: Shadow Architect                 ▓
-▓        Status: Grinding in the dungeon         ▓
-▓                                                ▓
-▓                                                ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                        ▓                                                ▓
+                                        ▓            ! SYSTEM NOTIFICATION               ▓
+                                        ▓                                                ▓
+                                        ▓        You have encountered a developer.       ▓
+                                        ▓        Rank: ██████  [ REDACTED ]              ▓
+                                        ▓        Class: Shadow Architect                 ▓
+                                        ▓        Status: Grinding in the dungeon         ▓
+                                        ▓                                                ▓
+                                        ▓                                                ▓
+                                        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 </div>
