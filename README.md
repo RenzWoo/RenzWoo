@@ -5,22 +5,22 @@
 <div align="center">
 
 <!-- Upload your Solo Leveling GIF to imgur.com and replace the URL below -->
-<img src="https://i.imgur.com/qPmJD1g.gif" width="380"/>
+<!-- <img src="https://i.imgur.com/qPmJD1g.gif" width="380"/> -->
 
 <br/><br/>
 
 ```
-                                ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-                                ▓                                                ▓
-                                ▓            ! SYSTEM NOTIFICATION               ▓
-                                ▓                                                ▓
-                                ▓        You have encountered a developer.       ▓
-                                ▓        Rank: ██████  [ REDACTED ]              ▓
-                                ▓        Class: Shadow Architect                 ▓
-                                ▓        Status: Grinding in the dungeon         ▓
-                                ▓                                                ▓
-                                ▓                                                ▓
-                                ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                ▓
+▓            ! SYSTEM NOTIFICATION               ▓
+▓                                                ▓
+▓        You have encountered a developer.       ▓
+▓        Rank: ██████  [ REDACTED ]              ▓
+▓        Class: Shadow Architect                 ▓
+▓        Status: Grinding in the dungeon         ▓
+▓                                                ▓
+▓                                                ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 </div>
