@@ -1,7 +1,6 @@
 - 👋 @Renzz
 - 👀 Interested in things am good at 1҉0҉0҉%
 - 🌱 Builds in private 🔒︎
-![Profile Views](https://komarev.com/ghpvc/?username=RenzWoo)
 
 <div align="center">
 
